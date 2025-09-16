@@ -21,19 +21,3 @@ p {
   margin-left: 20px;
   font-family: 'Papyrus', fantasy;
 }
-/* unvisited link */
-a:link {
-  color: rgb(255, 251, 0);
-}
-/* visited link */
-a:visited {
-  color: green;
-}
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-/* selected link */
-a:active {
-  color: blue;
-}
