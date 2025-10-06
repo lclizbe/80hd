@@ -2,7 +2,7 @@ body {
   background-color: rgb(150, 150, 232);
 }
 h1 {
-  style="color:Indigo";
+  color:rosybrown;
   margin-left: 20px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -20,4 +20,24 @@ p {
   color:rgb (46, 7, 118);
   margin-left: 20px;
   font-family: 'Papyrus', fantasy;
+}
+a:link {
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
 }
