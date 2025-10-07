@@ -4,26 +4,32 @@ body {
 }
 
 h1 {
-  color: rosybrown;
+  color: rgb(39, 3, 75);
   margin-left: 20px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
-               'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: .comforter-brush-regular {
+  font-family: "Comforter Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 h2 {
-  color: rgb(93, 94, 85);
+  color: rgb(104, 232, 13);
   margin-left: 20px;
   font-family: 'Arial Black', Gadget, sans-serif;
 }
 
 h3 {
-  color: rgb(78, 85, 43);
+  color: rgb(171, 223, 239);
   margin-left: 20px;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: .quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 p {
-  color: rgb(46, 7, 118);
+  color: rgb(25, 3, 67);
   margin-left: 20px;
   font-family: 'Papyrus', fantasy;
 }
@@ -47,8 +53,8 @@ a:active {
 
 /* table styles */
 table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
+  border: 2px solid rgb(236, 168, 81);
+  border-collapse: separate;
 }
 th, td {
   padding: 10px;
@@ -57,8 +63,8 @@ th {
   text-align: left;
 }
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #89e1f3;
 }
 tr:nth-child(odd) {
-  background-color: #ffffff;
+  background-color: #d0edad;
 }
