@@ -54,17 +54,24 @@ a:active {
 /* table styles */
 table, th, td {
   border: 2px solid rgb(236, 168, 81);
-  border-collapse: separate;
+  border-collapse: collapse;
+  border-radius: 8px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
 }
 th, td {
   padding: 10px;
 } 
 th {
   text-align: left;
+  background-color: #ffd9a0;
+  font-weight: bold;
 }
 tr:nth-child(even) {
   background-color: #89e1f3;
 }
 tr:nth-child(odd) {
   background-color: #d0edad;
+}
+tr:hover {
+  background-color: #ffb5f5;
 }
