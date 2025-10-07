@@ -77,6 +77,12 @@ tr:hover {
 }
 
 /* list styles */ 
-ul {
+ul.a {
   list-style-type; square;     
+}
+ul.b; {
+  list-style-type: Georgian type;     
+} 
+ul.c; {
+  list-style-type: upper-roman;     
 }
