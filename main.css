@@ -53,7 +53,7 @@ a:active {
 
 /* table styles */
 table, th, td {
-  border: 2px solid rgb(236, 168, 81);
+  border: 1px solid rgb(236, 168, 81);
   border-collapse: collapse;
   border-radius: 8px;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
