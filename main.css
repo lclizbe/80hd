@@ -1,5 +1,6 @@
 body {
   background-color: rgb(150, 150, 232);
+  padding: 30px;
 }
 
 h1 {
@@ -29,7 +30,7 @@ p {
 
 /* link styles */
 a:link {
-  color: red;
+  color: rgb(13, 0, 255);
 }
 
 a:visited {
@@ -54,4 +55,10 @@ th, td {
 } 
 th {
   text-align: left;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+tr:nth-child(odd) {
+  background-color: #ffffff;
 }
