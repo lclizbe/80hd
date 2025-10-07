@@ -75,3 +75,6 @@ tr:nth-child(odd) {
 tr:hover {
   background-color: #ffb5f5;
 }
+ul {
+  list-style-type; square;     
+}
