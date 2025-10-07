@@ -22,7 +22,6 @@ h3 {
   margin-left: 20px;
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
 }
 
@@ -42,7 +41,7 @@ a:visited {
 }
 
 a:hover {
-  color:rgb(rgb(251, 189, 248);
+  color: rgb(251, 189, 248);
 }
 
 
@@ -77,11 +76,11 @@ tr:hover {
 
 /* list styles */ 
 ul.a {
-  list-style-type: style type; square;     
+  list-style-type: square;     
 }
-ul.b; {
+ul.b {
   list-style-type: Georgian type;     
 } 
-ul.c; {
+ul.c {
   list-style-type: upper-roman;     
 }
