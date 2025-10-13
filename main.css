@@ -1,3 +1,8 @@
+div {
+  border: 1px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
 body {
   background-color: rgb(150, 150, 232);
   padding: 30px;
