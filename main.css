@@ -1,63 +1,49 @@
 div {
   border: 1px solid black;
   padding: 25px 50px 75px 100px;
-  background-color: lightblue;
+  background-color: rgb(68, 63, 50);
 }
 body {
-  background-color: rgb(150, 150, 232);
+  background-color: rgb(235, 231, 218);
   padding: 30px;
 }
-div {
-  width: 600px;
-  margin: auto;
-  border: 1px solid rgb(255, 183, 0);
-}
 h1 {
-  color: rgb(39, 3, 75);
+  color: rgb(43, 23, 2);
   margin-left: 20px; 
   font-family: "Comforter Brush", cursive;
   font-weight: 400;
   font-style: normal;
 }
-
 h2 {
-  color: rgb(13, 232, 221);
+  color: rgb(66, 44, 15);
   margin-left: 20px;
   font-family: 'Arial Black', Gadget, sans-serif;
 }
-
 h3 {
-  color: rgb(171, 223, 239);
+  color: rgb(114, 65, 41);
   margin-left: 20px;
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
-
 p {
-  color: rgb(25, 3, 67);
+  color: rgb(18, 7, 2);
   margin-left: 20px;
   font-family: 'Papyrus', fantasy;
 }
-
 /* link styles */
 a:link {
-  color: rgb(13, 0, 255);
+  color: rgb(215, 114, 5);
 }
-
 a:visited {
-  color: rgb(32, 232, 14);
+  color: rgb(128, 96, 44);
 }
-
 a:hover {
-  color: rgb(251, 189, 248);
+  color: rgb(253, 233, 106);
 }
-
-
 a:active {
-  color: rgb(13, 0, 255);
+  color: rgb(244, 157, 34);
 }
-
 /* table styles */
 table, th, td {
   border: 1px solid rgb(236, 168, 81);
@@ -82,7 +68,6 @@ tr:nth-child(odd) {
 tr:hover {
   background-color: #ffb5f5;
 }
-
 /* list styles */ 
 ul.a {
   list-style-type: square;     
