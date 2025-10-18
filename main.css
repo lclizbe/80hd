@@ -1,55 +1,55 @@
 div {
   border: 1px solid black;
   padding: 250px 50px 75px 300px;
-  background-color: rgb(181, 167, 131);
+  background-color: rgb(51, 16, 90);
 }
 body {
-  background-color: rgb(235, 231, 218);
+  background-color: rgb(59, 24, 116);
   padding: 30px;
 }
 h1 {
-  color: rgb(43, 23, 2);
+  color: rgb(223, 197, 236);
   margin-left: 20px; 
   font-family: "Comforter Brush", cursive;
   font-weight: 400;
   font-style: normal;
 }
 h2 {
-  color: rgb(66, 44, 15);
+  color: rgb(154, 139, 188);
   margin-left: 20px;
   font-family: 'Arial Black', Gadget, sans-serif;
 }
 h3 {
-  color: rgb(114, 65, 41);
+  color: rgb(178, 154, 181);
   margin-left: 20px;
   font-family: "Quicksand", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
 p {
-  color: rgb(18, 7, 2);
+  color: rgb(244, 243, 245);
   margin-left: 20px;
   font-family: 'Papyrus', fantasy;
 }
 /* link styles */
 a:link {
-  color: rgb(215, 114, 5);
+  color: rgb(239, 107, 226);
 }
 a:visited {
-  color: rgb(128, 96, 44);
+  color: rgb(93, 92, 96);
 }
 a:hover {
-  color: rgb(253, 233, 106);
+  color: rgb(162, 57, 157);
 }
 a:active {
-  color: rgb(244, 157, 34);
+  color: rgb(168, 103, 238);
 }
 /* table styles */
 table, th, td {
-  border: 1px solid rgb(236, 168, 81);
+  border: 1px solid rgb(183, 128, 241);
   border-collapse: collapse;
   border-radius: 8px;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 6px rgba(142, 38, 168, 0.852);
 }
 th, td {
   padding: 10px;
