@@ -56,17 +56,17 @@ th, td {
 } 
 th {
   text-align: left;
-  background-color: #ffd9a0;
+  background-color: #6e4f67;
   font-weight: bold;
 }
 tr:nth-child(even) {
-  background-color: #89e1f3;
+  background-color: #8997f3;
 }
 tr:nth-child(odd) {
-  background-color: #d0edad;
+  background-color: #edadc7;
 }
 tr:hover {
-  background-color: #ffb5f5;
+  background-color: #f4c7ee;
 }
 /* list styles */ 
 ul.a {
